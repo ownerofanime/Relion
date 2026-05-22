@@ -70,20 +70,6 @@ Relion is built to close that gap.
 - As a user, I want insights into my networking effectiveness so I can continuously improve
 
 ---
-
-## Team
-
-Built for **.Hack HEAP 2026**
-
-| Name | Email |
-|---|---|
-| Bernard Lo | bernard.lo.2025@computing.smu.edu.sg |
-| Marvel Nathanael | marvel.t.2025@computing.smu.edu.sg |
-| Dewa Bratanusa | dbe.satya.2025@computing.smu.edu.sg |
-| **Matthew Tjandera** *(Team Lead)* | m.tjandera.2025@computing.smu.edu.sg |
-
----
-
 ## Getting Started
 
 > Setup instructions will be added as the project develops.
